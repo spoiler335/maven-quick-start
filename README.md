@@ -1,3 +1,3 @@
 # maven-quick-start
 
-quick-start sample
+quick-start sample2
